@@ -1,0 +1,7 @@
+C:\Users\K\source\repos\NemeApp1\NemeApp1\bin\Debug\NemeApp1.exe.config
+C:\Users\K\source\repos\NemeApp1\NemeApp1\bin\Debug\NemeApp1.exe
+C:\Users\K\source\repos\NemeApp1\NemeApp1\bin\Debug\NemeApp1.pdb
+C:\Users\K\source\repos\NemeApp1\NemeApp1\obj\Debug\NemeApp1.csprojAssemblyReference.cache
+C:\Users\K\source\repos\NemeApp1\NemeApp1\obj\Debug\NemeApp1.csproj.CoreCompileInputs.cache
+C:\Users\K\source\repos\NemeApp1\NemeApp1\obj\Debug\NemeApp1.exe
+C:\Users\K\source\repos\NemeApp1\NemeApp1\obj\Debug\NemeApp1.pdb

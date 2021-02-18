@@ -1,0 +1,7 @@
+C:\Users\K\source\repos\NemeApp1\NemeApp1\obj\Debug\Grerting.csproj.CoreCompileInputs.cache
+C:\Users\K\source\repos\NemeApp1\NemeApp1\bin\Debug\Grerting.exe.config
+C:\Users\K\source\repos\NemeApp1\NemeApp1\bin\Debug\Grerting.exe
+C:\Users\K\source\repos\NemeApp1\NemeApp1\bin\Debug\Grerting.pdb
+C:\Users\K\source\repos\NemeApp1\NemeApp1\obj\Debug\Grerting.csprojAssemblyReference.cache
+C:\Users\K\source\repos\NemeApp1\NemeApp1\obj\Debug\Grerting.exe
+C:\Users\K\source\repos\NemeApp1\NemeApp1\obj\Debug\Grerting.pdb
